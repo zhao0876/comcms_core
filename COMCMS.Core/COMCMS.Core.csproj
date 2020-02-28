@@ -5,6 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Dos.ORM" Version="1.17.0" />
+    <PackageReference Include="Dos.ORM.MySql" Version="2.1.0" />
     <PackageReference Include="NewLife.XCode" Version="9.14.2019.1212" />
     <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
   </ItemGroup>
